@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋. I'm Prajot. I am a Fullstack JavaScript Developer. I am currently looking for job opportunities.
 
-<!--
-**prajotsurey/prajotsurey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I have worked as a Software Engineer Intern for [Proficient Test Prep](https://www.proficienttestprep.com) where I worked on a [Django based quiz web application](https://quizly.proficienttestprep.com/).
 
-Here are some ideas to get you started:
+### Here are a few of my projects: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ### Fullstack Twitter Clone [LINK](https://socialist-poutine-39664.herokuapp.com/) | [REPO](https://github.com/prajotsurey/fullstack-twitter-clone)
+* ### Fullstack Tumblr Clone [LINK](https://polar-falls-76219.herokuapp.com/) | [SERVER](https://github.com/prajotsurey/tumblr-clone-server) | [Client](https://github.com/prajotsurey/tumblr-clone-client)
+
+---
+- ### 🔭 I’m currently working on building a website that uses Redux for state management.
+- ### 🌱 I’m currently learning about Cookies and Domains.
+- ### 📫 How to reach me: [Email](mailto:prajotsurey@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prajotsurey/)
+
