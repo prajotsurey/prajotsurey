@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Prajot. I am a Fullstack JavaScript Developer. I am currently looking for job opportunities.
 
-#### I have worked as a Software Engineer Intern for [Proficient Test Prep](https://www.proficienttestprep.com) where I worked on a [Django based quiz web application](https://quizly.proficienttestprep.com/).
+### I have worked as a Software Engineer Intern for [Proficient Test Prep](https://www.proficienttestprep.com) where I worked on a [Django based quiz web application](https://quizly.proficienttestprep.com/).
 
 - 🔭 I’m currently working on building a website that uses Redux for state management.
 - 🌱 I’m currently learning about Cookies and Domains.
