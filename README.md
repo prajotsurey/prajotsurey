@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning about Cookies and Domains.
 - 📫 How to reach me: [Email](mailto:prajotsurey@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prajotsurey/)
 
-Here are a some of my projects: 
+### Here are a some of my projects: 
 * Fullstack Twitter Clone: [LINK](https://socialist-poutine-39664.herokuapp.com/) | [REPO](https://github.com/prajotsurey/fullstack-twitter-clone)
 * Fullstack Tumblr Clone: [LINK](https://polar-falls-76219.herokuapp.com/) | [SERVER](https://github.com/prajotsurey/tumblr-clone-server) | [Client](https://github.com/prajotsurey/tumblr-clone-client)
