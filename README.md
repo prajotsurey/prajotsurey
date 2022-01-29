@@ -8,6 +8,6 @@
 
 ### Here are a some of my projects: 
 * Fullstack Twitter Clone: [WEBSITE](https://socialist-poutine-39664.herokuapp.com/) | [REPO](https://github.com/prajotsurey/fullstack-twitter-clone)
-* Fullstack Tumblr Clone: [WEBSITE](https://polar-falls-76219.herokuapp.com/) | [SERVER REPOSITORY](https://github.com/prajotsurey/tumblr-clone-server) | [Client REPOSITORY](https://github.com/prajotsurey/tumblr-clone-client)
-* Fullstack Reddit Clone: [WEBSITE](https://reddit-client-nu.vercel.app/) | [SERVER REPOSITORY](https://github.com/prajotsurey/reddit-server) | [Client REPOSITORY](https://github.com/prajotsurey/reddit-client)
+* Fullstack Tumblr Clone: [WEBSITE](https://polar-falls-76219.herokuapp.com/) | [SERVER REPOSITORY](https://github.com/prajotsurey/tumblr-clone-server) | [CLIENT REPOSITORY](https://github.com/prajotsurey/tumblr-clone-client)
+* Fullstack Reddit Clone: [WEBSITE](https://reddit-client-nu.vercel.app/) | [SERVER REPOSITORY](https://github.com/prajotsurey/reddit-server) | [CLIENT REPOSITORY](https://github.com/prajotsurey/reddit-client)
 
