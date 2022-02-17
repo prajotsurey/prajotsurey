@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Email](mailto:prajotsurey@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prajotsurey/)
 
 ### Here are a some of my projects: 
-* Fullstack Twitter Clone: [WEBSITE](https://socialist-poutine-39664.herokuapp.com/) | [REPO](https://github.com/prajotsurey/fullstack-twitter-clone)
+* Portfolio Website: [WEBSITE](https://www.prajot.dev/) | [REPO](https://github.com/prajotsurey/portfolio)
 * Fullstack Tumblr Clone: [WEBSITE](https://polar-falls-76219.herokuapp.com/) | [SERVER REPOSITORY](https://github.com/prajotsurey/tumblr-clone-server) | [CLIENT REPOSITORY](https://github.com/prajotsurey/tumblr-clone-client)
 * Fullstack Reddit Clone: [WEBSITE](https://reddit-client-nu.vercel.app/) | [SERVER REPOSITORY](https://github.com/prajotsurey/reddit-server) | [CLIENT REPOSITORY](https://github.com/prajotsurey/reddit-client)
 
